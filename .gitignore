@@ -1,0 +1,8 @@
+# Ignore credentials and sensitive information
+config.json
+secrets.json
+*.pem
+*.cer
+*.key
+*.crt
+*.env
